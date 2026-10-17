@@ -31,7 +31,6 @@
 - 🎓 Saat ini sedang menempuh studi **Teknik Informatika** di **Universitas Medan Area (UMA)**.
 - 🔭 Fokus belajar mengeksplorasi **Web Development & Software Engineering**.
 - 🌱 Sedang memperdalam pemahaman tentang struktur data, algoritma, serta pengembangan aplikasi modern.
-- 💬 Tanyakan kepada saya seputar perkuliahan informatika atau tugas-tugas ngoding.
 - ⚡ Fakta unik: **Suka penasaran sama logika di balik *bug* yang susah dipecahkan!**
 
 ---
